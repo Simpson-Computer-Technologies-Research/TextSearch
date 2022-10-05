@@ -1,7 +1,6 @@
 # Full Text Search ![Stars](https://img.shields.io/github/stars/Simpson-Computer-Technologies-Research/FullTextSearch?color=brightgreen) ![Watchers](https://img.shields.io/github/watchers/Simpson-Computer-Technologies-Research/FullTextSearch?label=Watchers)
 
 ![banner](https://user-images.githubusercontent.com/75189508/194181984-b5785fe3-87d8-44df-a6b2-dec78c17e24b.png)
-
 Full Text Searches Using Golang Byte Arrays, Arrays and Maps. Which is fastest?
 
 # Benchmarks
