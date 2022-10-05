@@ -1,2 +1,2 @@
-# Algorithms-FullTextSearch
-A Lightning Fast Full Text Search Algorithm Developed by Tristan Simpson
+# Full Text Search
+Full Text Searches Using Golang Byte Arrays, Arrays and Maps. Which is fastest?
