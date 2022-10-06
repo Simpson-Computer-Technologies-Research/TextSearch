@@ -5,7 +5,7 @@ Text Searches Using Golang Arrays and Maps. Which is fastest?
 
 # Benchmarks
 
-```golang
+```go
 >> TextSearchArray(): 1561100ns
 
 >> TextSearchMap(): 3033900ns
