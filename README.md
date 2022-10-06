@@ -1,7 +1,7 @@
 # Text Search ![Stars](https://img.shields.io/github/stars/Simpson-Computer-Technologies-Research/TextSearch?color=brightgreen) ![Watchers](https://img.shields.io/github/watchers/Simpson-Computer-Technologies-Research/TextSearch?label=Watchers)
 
 ![banner](https://user-images.githubusercontent.com/75189508/194181984-b5785fe3-87d8-44df-a6b2-dec78c17e24b.png)
-Text Searches Using Golang Arrays and Maps. Which is fastest?
+Text Searches Using Golang Arrays and Maps. Which is faster?
 
 # Benchmarks
 
